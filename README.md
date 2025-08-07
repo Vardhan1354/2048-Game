@@ -1,4 +1,11 @@
 # 2048-Game
+
+<div align="center">
+  <img src=""https://drive.google.com/file/d/10uC5C3Ly7Y2EFzIhJTTSYdK__odukyWM/view?usp=drive_link"" width="500">
+</div> 
+
+
+
 🎮 Project Highlight: Console-Based 2048 Game in C
 
 As part of my self-learning journey in system-level programming, I built a 2048 Game using the C language for the Windows console.
